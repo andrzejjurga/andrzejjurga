@@ -11,3 +11,5 @@ My name is Andrzej Jurga. I love to create, and programming has opened the way f
 [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)]()
 
 [![C++](https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B)]()
+[![SFML](https://img.shields.io/badge/-SFML-brightgreen)]()
+[![Box2D](https://img.shields.io/badge/-Box2D-red)]()
