@@ -20,7 +20,7 @@ I fell in love with coding because it won't let you half-understand anything. To
 
 ### `:checkhealth stack`
 
-| | |
+| Category | Technologies |
 |---|---|
 | **primary** | Python |
 | **ai** | Google Cloud ADK · AI agents · RAG · MCP · n8n · LLM integrations |
