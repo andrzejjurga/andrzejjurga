@@ -16,7 +16,7 @@ local me = {
 
 ### `:echo about`
 
-5+ years at XTM International. After five years in 2nd-line support (Linux troubleshooting, MT/LLM integrations, Python automation against the XTM API) I moved into AI integrations in July 2026. These days I build AI agents and RAG pipelines and automate internal processes.
+I fell in love with coding because it won't let you half-understand anything. To make something work you have to understand it to a very high degree. That itch took me from technical school, through five years of untangling production problems in support, to building AI agents at XTM International today.
 
 ### `:checkhealth stack`
 
@@ -25,8 +25,7 @@ local me = {
 | **primary** | Python |
 | **ai** | Google Cloud ADK · AI agents · RAG · MCP · n8n · LLM integrations |
 | **data** | REST APIs · JSON · XML · XPath · RegEx · SQL |
-| **also** | TypeScript · Node.js · C · C++ · OpenGL |
-| **tools** | Linux · Git · Neovim · Jira |
+| **tools** | Linux · Git · Neovim |
 
 ### `:ls projects`
 
